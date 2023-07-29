@@ -48,7 +48,9 @@ I'm young dev junior that wanna learn more technologies. I like learn, some tech
   <a href="https://www.npmjs.com/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
   </a>
+  <a href="https://jupyter.org/">
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter-notebook" width="40" height="40"/>&nbsp;
+  </a>
 </div>
 
 
