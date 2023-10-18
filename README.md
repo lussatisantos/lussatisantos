@@ -52,6 +52,14 @@ I'm young dev junior that wanna learn more technologies. I like learn, some tech
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter-notebook" width="40" height="40"/>&nbsp;
   </a>
 </div>
+<br>
+<p></p>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=lussatisantos&show_icons=true&include_all_commits=true&line_height=20&hide_border=true&theme=graywhite" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lussatisantos&layout=compact&theme=graywhite&hide_border=true" width="280" />
+  <img src="https://github-readme-stats.vercel.app/api/all-langs/?username=lussatisantos&layout=compact&theme=dracula">
+</div>
+</div>
 
 
 
