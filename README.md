@@ -56,7 +56,7 @@ I'm young dev junior that wanna learn more technologies. I like learn, some tech
 <p></p>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=lussatisantos&show_icons=true&include_all_commits=true&line_height=20&hide_border=true&theme=graywhite" width="440"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lussatisantos&layout=compact&theme=dracula&hide_border=true" width="313" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lussatisantos&layout=compact&theme=graywhite&hide_border=true" width="313" />
 </div>
 </div>
 
