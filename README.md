@@ -2,7 +2,7 @@
 #### I'm from Angola 🇦🇴, I write code 💻
 
 🔴 Python (Django), Javascript (Node) and C# (WPF)<br>
-🟠 I’m currently working on WPF apps<br>
+🟠 I’m currently working on Django apps<br>
 🟡 I’m currently learning C#, Python and JS<br>
 🟢 Ask me about code, movie, series and music<br>
 🟣 How to reach me: [contacto.lussatisantos@gmail.com](mailto:contacto.lussatisantos@gmail.com)
