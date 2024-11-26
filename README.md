@@ -1,9 +1,9 @@
 ### Hi there 👋, I'm Lussati Santos.
 #### I'm from Angola 🇦🇴, I write code 💻
 
-🔴 Python (Django), Javascript (Node) and C# (WPF)<br>
-🟠 I’m currently working on Django apps<br>
-🟡 I’m currently learning Java<br>
+🔴 Python (Django), Javascript (Node), C# (WPF) and Java notion<br>
+🟠 I’m currently working on Flutter apps<br>
+🟡 I’m currently learning Dart<br>
 🟢 Ask me about code, movie, series and music<br>
 🟣 How to reach me: [contacto.lussatisantos@gmail.com](mailto:contacto.lussatisantos@gmail.com)
 
