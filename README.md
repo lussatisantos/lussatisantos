@@ -5,7 +5,7 @@
 🟠 I’m currently working on Flutter apps<br>
 🟡 I’m currently learning Dart<br>
 🟢 Ask me about code, movie, series and music<br>
-🟣 How to reach me: [lussatisantos10@gmail.com](mailto:contacto.lussatisantos@gmail.com)
+🟣 How to reach me: [contacto.lussatisantos10@gmail.com](mailto:contacto.lussatisantos@gmail.com)
 
 [![Follow me on Twitter](https://img.shields.io/twitter/follow/lussatisantos?style=social)](https://twitter.com/lussatisantos)
 [![GitHub followers](https://img.shields.io/github/followers/e200?style=social)](https://github.com/lussatisantos)
